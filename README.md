@@ -12,7 +12,7 @@ Este documento se mantendra en lenguaje Espanol.
 - Identificar que metodologias/modelos son aplicados para observar sistemas.
 
 
-## planteamiento del entorno de pruebas:
+## Proposición para el entorno de pruebas:
 
 Para el entorno de pruebas, vamos a desplegar Kubernetes en un entorno virtual, no utilizaremos minikube ya que necesitamos simular un plano de control aislado con nodos que puedan ser modificados para poder agregar condiciones que creen inestablidad en el sistema distribuido.
 
