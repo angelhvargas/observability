@@ -1,0 +1,8 @@
+# servidor Jenkins
+[jenkins-master]
+
+# maestros kubernetes
+[k8s-masters]
+
+# nodos kubernetes
+[k8a-nodos]
